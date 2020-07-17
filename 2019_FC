@@ -1,5 +1,4 @@
-{
-  "features": [
+[
     {
       "type": "Feature",
       "properties": {},
@@ -38171,4 +38170,3 @@
       }
     }
   ]
-}
